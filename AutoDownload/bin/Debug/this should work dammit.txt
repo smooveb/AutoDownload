@@ -1,0 +1,1 @@
+AutoDownload.exe http://podcast.wpr.org/sfk/sfk<yyMMdd>a.mp3 Su

@@ -1,0 +1,28 @@
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe.config
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\obj\Debug\AutoDownload.csprojResolveAssemblyReference.cache
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\bin\Debug\AutoDownload.pdb
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\obj\Debug\AutoDownload.exe
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\obj\Debug\AutoDownload.pdb
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\obj\Debug\AutoDownload.Properties.Resources.resources
+c:\users\apatters\documents\visual studio 2013\Projects\AutoDownload\AutoDownload\obj\Debug\AutoDownload.csproj.GenerateResource.Cache
+C:\Users\apatters\Dropbox\Epic\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe.config
+C:\Users\apatters\Dropbox\Epic\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.exe
+C:\Users\apatters\Dropbox\Epic\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.pdb
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe.config
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.exe
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.pdb
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.csprojResolveAssemblyReference.cache
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.Properties.Resources.resources
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.csproj.GenerateResource.Cache
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe
+D:\MyStuff\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.pdb
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe.config
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.exe
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.pdb
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.pdb
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.Properties.Resources.resources
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\obj\Debug\AutoDownload.csproj.GenerateResource.Cache
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe.CodeAnalysisLog.xml
+C:\Aaron\Dropbox\Epic\SomethingWonderful\Code\AutoDownload\AutoDownload\bin\Debug\AutoDownload.exe.lastcodeanalysissucceeded
